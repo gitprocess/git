@@ -25,7 +25,7 @@ Commit all the changes made in your repo with a message <br/>
 Remove a remote origin from your local machine after cloning a repo from github <br/>
 `git remote remove origin`
 
-## got remote add origin 
+## git remote add origin 
 Add a remote origin where you can push your codes from local machine <br/>
 `git remote add origin https://github.com/username/repo-name.git`
 
