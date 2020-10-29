@@ -3,14 +3,14 @@ Git Book, Git References, Git Documentation
 
 ## Most used git commands
 
-## git clone - Clone a public repo
+## `git clone` Clone a public repo
 `git clone https://github.com/username/repo-name.git local-machine-folder-name`
 
 ## git init
 Initialize or reinitialize a git repo <br/>
 `git init`
 
-## git add - Save the changes
+## git add Save the changes
 Add / save all the changes in a repo <br/>
 `git add --all`
 
