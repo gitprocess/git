@@ -21,9 +21,9 @@ Add your user-email and username before making a commit if not set yet <br/>
 `git config --global user.name 'yournamehere'` <br/>
 
 ## git commit
-Commit a change
+Commit a change <br/>
+`git commit` <br/>
 
-## git commit -m 'your-message'
 Commit all the changes made in your repo with a message <br/>
 `git commit -m 'local update'`
 
