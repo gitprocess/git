@@ -18,3 +18,10 @@ Commit a change
 ## git commit -m 'your-commit-message-here'
 Commit all the changes made in your repo with a message
 
+## git push
+Push your local code to github master branch <br/>
+`git push origin master`
+
+## git pull
+Pull all the codes from github repo to your local machine on base branch <br/>
+`git pull`
