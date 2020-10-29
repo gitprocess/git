@@ -15,6 +15,11 @@ Initialize or reinitialize a git repo <br/>
 Add / save all the changes in a repo <br/>
 `git add --all`
 
+## git config
+Add your user-email and username before making a commit if not set yet <br/>
+`git config --global user.email 'youremailhere'` <br/>
+`git config --global user.name 'yournamehere'` <br/>
+
 ## git commit
 Commit a change
 
