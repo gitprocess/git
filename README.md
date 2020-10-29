@@ -3,14 +3,14 @@ Git Book, Git References, Git Documentation
 
 ## Most used git commands
 
-## git clone
-Clone a public repo <br/>
+## git clone - Clone a public repo
 `git clone https://github.com/username/repo-name.git local-machine-folder-name`
 
 ## git init
-Initialize or reinitialize a git repo
+Initialize or reinitialize a git repo <br/>
+`git init`
 
-## git add --all
+## git add - Save the changes
 Add / save all the changes in a repo <br/>
 `git add --all`
 
@@ -18,7 +18,8 @@ Add / save all the changes in a repo <br/>
 Commit a change
 
 ## git commit -m 'your-commit-message-here'
-Commit all the changes made in your repo with a message
+Commit all the changes made in your repo with a message <br/>
+`git commit -m 'local update'`
 
 ## git remote remove origin
 Remove a remote origin from your local machine after cloning a repo from github <br/>
