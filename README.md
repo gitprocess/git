@@ -25,7 +25,7 @@ Commit a change <br/>
 `git commit` <br/>
 
 Commit all the changes made in your repo with a message <br/>
-`git commit -m 'local update'`
+`git commit -m 'your message'`
 
 ## git remote remove origin
 Remove a remote origin from your local machine after cloning a repo from github <br/>
