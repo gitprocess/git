@@ -52,9 +52,11 @@ Pull all the codes from github repo to your local machine on base branch <br/>
 
 ## git checkout
 Move your cursor to one branch to another branch. <br/>
-This will move your cursor to `local branch` <br/>
+This will move your cursor to `local`. (here local is a branch name, not your local machine) <br/>
 `git checkout local` <br/>
 
 Again this will move your cursor to `master` branch <br/>
 `git checkout master`
 
+If you don't have a `local` branch, this will create a 'local' branch and at the same time the cursor will move to that new branch <br/>
+`git checkout -b local`
