@@ -32,7 +32,7 @@ Remove a remote origin from your local machine after cloning a repo from github 
 `git remote remove origin`
 
 ## git remote add origin 
-Add a remote origin where you can push your codes from local machine <br/>
+Add a remote origin where you want push your codes from local machine <br/>
 `git remote add origin https://github.com/username/repo-name.git`
 
 ## git push
@@ -42,7 +42,15 @@ Push your local code to github <br/>
 Set upstream to master branch and push local codes together <br/>
 `git push -u origin master`
 
+When you set upstream once, you can use directly `git push` to push your code
+`git push`
+
 
 ## git pull
 Pull all the codes from github repo to your local machine on base branch <br/>
 `git pull`
+
+## git checkout
+Move your cursor to one branch to another branch. <br/>
+This will move your cursor to `local branch` <br/>
+`git checkout local`
