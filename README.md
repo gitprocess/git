@@ -62,5 +62,5 @@ Again this will move your cursor to `master` branch <br/>
 If you don't have a `local` branch, this will create a 'local' branch and at the same time the cursor will move to that new branch <br/>
 `git checkout -b local`
 
-This will move your cursor to a specific commit back <br/>
+This will move your cursor to a specific commit back and set head there <br/>
 `git checkout your_commit_reference_name_here`
