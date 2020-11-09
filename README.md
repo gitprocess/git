@@ -64,3 +64,8 @@ If you don't have a `local` branch, this will create a 'local' branch and at the
 
 This will move your cursor to a specific commit back and set head there <br/>
 `git checkout your_commit_reference_name_here`
+
+## git log
+Check recent commit history- get commit id, author, time and commit message
+`git log`
+
