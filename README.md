@@ -69,3 +69,9 @@ This will move your cursor to a specific commit back and set head there <br/>
 Check recent commit history- get commit id, author, time and commit message
 `git log`
 
+## git reset
+Reset your uncommitted but saved works. First save the file or close and reopen the file then use the command <br/>
+`git reset --hard`
+Then you can restore data from the github <br/>
+`git pull`
+
