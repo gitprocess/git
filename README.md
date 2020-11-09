@@ -75,3 +75,6 @@ Reset your uncommitted but saved works. First save the file or close and reopen 
 Then you can restore data from the github <br/>
 `git pull`
 
+## git restore
+Restore your currently changed file <br/>
+`git restore`
