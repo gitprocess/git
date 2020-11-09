@@ -45,6 +45,9 @@ Set upstream to master branch and push local codes together <br/>
 When you set upstream once, you can use directly `git push` to push your code
 `git push`
 
+Force to push your current codes no matter whatever conflict it has <br/>
+`git push -f origin master`
+
 
 ## git pull
 Pull all the codes from github repo to your local machine on base branch <br/>
