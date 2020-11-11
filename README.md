@@ -81,3 +81,7 @@ Then you can restore data from the github <br/>
 ## git restore
 Restore your currently changed file <br/>
 `git restore`
+
+## git clean
+Undo your uncommitted codes with new files and directory<br/>
+`git clean --fd`
