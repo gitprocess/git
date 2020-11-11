@@ -84,4 +84,4 @@ Restore your currently changed file <br/>
 
 ## git clean
 Undo your uncommitted codes and delete new files and directory<br/>
-`git clean --fd`
+`git clean -fd`
